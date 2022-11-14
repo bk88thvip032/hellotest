@@ -1,17 +1,14 @@
 {
   "name": "hellotest",
   "main": "./lib/bk8",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "bk8 package",
-  "keywords": [
-  ],
-  "activationCommands": {
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/bk88thvip032/hellotest",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
