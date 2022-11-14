@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Visit Webite",
+        "command": "bk8:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bk8",
+          "submenu": [
+            {
+              "label": "Visit Webite",
+              "command": "bk8:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
