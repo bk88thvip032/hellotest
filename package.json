@@ -1,7 +1,7 @@
 {
   "name": "hellotest",
   "main": "./lib/bk8",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "description": "bk8 package",
   "keywords": [],
   "activationCommands": {},
